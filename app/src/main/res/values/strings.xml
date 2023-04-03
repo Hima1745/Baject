@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Baject</string>
+
+    <string-array name="sekul">
+        <item>SMK N 1 Depok</item>
+        <item>SMK N 3 Pancoran Mas</item>
+        <item>SMA N 3 Depok</item>
+    </string-array>
+
+    <!--    untuk temperature -->
+    <string-array name="suhu">
+        <item>Fahrenheit</item>
+        <item>Celcius</item>
+        <item>Kelvin</item>
+        <item>Reamur</item>
+    </string-array>
+
+    <string-array name="konvert">
+        <item>Fahrenheit</item>
+        <item>Celcius</item>
+        <item>Kelvin</item>
+        <item>Reamur</item>
+    </string-array>
+</resources>
